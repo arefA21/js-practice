@@ -1,0 +1,1 @@
+Write a function that takes in a string as an argument and returns the same string with each words reversed
