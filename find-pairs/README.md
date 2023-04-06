@@ -1,0 +1,1 @@
+a function that takes an array of integers as input and returns an array of all the unique pairs of integers that add up to a target number
