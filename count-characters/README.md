@@ -1,0 +1,1 @@
+a function that takes a string as its argument and returns an object that represents the charcter count for each letter in the input string
