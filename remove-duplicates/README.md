@@ -1,0 +1,1 @@
+a function that takes an array of numbers as its argument and returns a new array with all duplicate values removed and sort the array
