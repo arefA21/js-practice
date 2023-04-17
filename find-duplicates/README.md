@@ -1,0 +1,1 @@
+a function that takes an array of numbers returns an array containing any numbers that apear more than once in the input array
