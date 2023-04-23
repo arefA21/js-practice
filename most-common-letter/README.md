@@ -1,0 +1,1 @@
+a function that takes a string as its input and return most common letter in the string
